@@ -173,7 +173,7 @@ var module = (function() {
 
 
 
-////////// PROBLEM 7 //////////
+////////// PROBLEM 7 ////////// 
 
 /*
   Here we have a function named secretNumber that has a secret number.
